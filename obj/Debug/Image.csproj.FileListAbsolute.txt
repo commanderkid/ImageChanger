@@ -1,0 +1,14 @@
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Debug\Image.csproj.GenerateResource.Cache
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Pushkin-AA\AppData\Local\Temporary Projects\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\bin\Debug\Image.exe
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\bin\Debug\Image.pdb
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\obj\Debug\Image.csproj.GenerateResource.Cache
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\obj\Debug\Image.exe
+C:\Users\Pushkin-AA\Documents\Visual Studio 2008\Projects\Image.csproj.zip.2\Image\Image\obj\Debug\Image.pdb
